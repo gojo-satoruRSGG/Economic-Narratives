@@ -1,0 +1,21 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2638
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red211\green154\blue55;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c86275\c66275\c27451;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 My home country\'92s president, Emmanuel Macron, wants to have 100 French unicorns by 2030. Economy minister Bruno Le Maire, 10 homegrown decacorns. But shouldn\'92t we all dream of centaurs instead? Let\'92s explore.\
+\pard\pardeftab720\sa292\partightenfactor0
+\cf2 \strokec2 Moderation brewing\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf2 \strokec2 There must be 100 French unicorns by 2030, Macron\'a0\cf3 \strokec3 said\cf2 \strokec2 \'a0at the VivaTech conference in Paris earlier this month. \'93It is achievable,\'94 he later argued\'a0\cf3 \strokec3 on Twitter\cf2 \strokec2 . \'93And because startups have a role to play in the ecological transition, let\'92s set another goal: 25 green unicorns by 2030!\'94\
+It isn\'92t new for Macron to set unicorn-related goals for the country. He famously already did so\'a0\cf3 \strokec3 in 2019\cf2 \strokec2 , when he wished for the country to count \'9325 unicorns by 2025.\'94 And despite some\'a0\cf3 \strokec3 debate\cf2 \strokec2 \'a0around France\'92s exact unicorn tally, the consensus is that Macron\'92s goal has actually been reached this year.\
+French economic newspaper \'93La Tribune\'94\'a0\cf3 \strokec3 did the math\cf2 \strokec2 : For France to be home to 100 unicorns by 2030, it will need to add nine or 10 unicorns a year. According to the newspaper, this makes Macron\'92s goal \'93quite realistic, or even unambitious.\'94 Why? Because in 2021, \'93La French Tech\'94 \'93generated 11 new unicorns, which is more than the pace predicted by the President\'92s forecast for the next eight years.\'94 However, that would still be a lot faster than in 2019 or 2020.\
+Speed aside, France\'92s goal doesn\'92t seem terribly aspiring when put into a global perspective. India, for instance, recently crowned its 100th unicorn,\'a0\cf3 \strokec3 Bengaluru-headquartered neobank Open.\cf2 \strokec2 \'a0Sure, France has a population of only 67.39 million, compared to more than 1.38 billion in India. But it\'92s not just about population size. For France to be on par with the U.S. in terms of unicorns per capita, it should already have 130, BlaBlaCar founder Fr\'e9d\'e9ric Mazzella told Les \'c9chos\'a0\cf3 \strokec3 in an interview\cf2 \strokec2 .\
+However, the market has turned on startups in recent months, which doesn\'92t exactly support overly ambitious goals. France\'a0\cf3 \strokec3 minted a bunch of unicorns\cf2 \strokec2 \'a0in January of this year, but those deals were presumably born out of late 2021 dealmaking, when capital flowed more freely. That euphoria is long gone, and young unicorns are becoming a\'a0\cf3 \strokec3 rare animal\cf2 \strokec2 \'a0once again.\
+Furthermore, aside from\'a0\cf3 \strokec3 Deezer\'92s SPAC plans\cf2 \strokec2 , IPOs seem to be paused in France as much as they are in the U.S. That means that French unicorns are likely to stay private longer, keeping their number artificially high. And with the inertia of them having already raised mega-rounds and needing more cash, those who don\'92t see their valuations slashed will perhaps become pentacorns or even decacorns.\
+\
+}
